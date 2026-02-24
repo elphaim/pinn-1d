@@ -1,3 +1,3 @@
-﻿# pinn-material-1d
+﻿# pinn-1d
 
-This repo contains the code used to explore various PINN optimization techniques. It focuses on the 1d heat equation as a starting point, and will later move on to more complex/useful PDEs once the optimization techniques are implemented correctly. See the pdf in the root folder for some results and findings.
+This repo contains the code used to explore various PINN optimization techniques. It allows work on some usual 1d equations (heat, advection, Burgers). The code was generalized from the elphaim/pinn-heat-1d repo by elphaim and Claude Code, as an experiment into the abilities of Claude Code.
